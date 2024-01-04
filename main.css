@@ -20,13 +20,6 @@ li {
     --bg: var(--green);
     --fontColor: var(--black);
 }
-ul{
-    font-family: helvetica;
-}
-
-#msg {
-    font-family: monospace;
-}
 
 .dark-theme {
     --bg: var(--black);
